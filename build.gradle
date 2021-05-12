@@ -8,7 +8,7 @@ mainClassName = 'me.duncte123.jdatuts.Bot'
 
 version '3.1'
 
-sourceCompatibility = JavaVersion.VERSION_8
+sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
     jcenter()
